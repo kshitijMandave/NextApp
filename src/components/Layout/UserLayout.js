@@ -1,11 +1,12 @@
 import Footer from "../Common/Footer.js";
 import Header from "../Common/Header.js";
 
-function UserLayout({ children }) {
+function UserLayout() {
   return (
     <>
       {/* Header */}
       <Header />
+
       {/*Main */}
 
       {/*Main */}
